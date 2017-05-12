@@ -1,0 +1,5 @@
+#lahukalagaan : 3, '0.076*"lahukalagaan" + 0.056*"sanitari" + 0.044*"napkin" + 0.042*"tax" + 0.035*"free" + 0.024*"women"'
+#bjymnec : 0, '0.090*"bjymnec" + 0.082*"bjym" + 0.052*"amp" + 0.042*"bhim" + 0.041*"promot" + 0.041*"young" + 0.041*"leader" + 0.041*"shri" + 0.041*"payment" + 0.041*"address"'
+#vijaymallya : 2, '0.088*"vijaymallya" + 0.038*"arrest" + 0.030*"congratul" + 0.027*"promis" + 0.027*"fullfil" + 0.022*"govt" + 0.020*"bail" + 0.018*"ensur" + 0.018*"thevijaymallya" + 0.018*"london"'
+#privateschoolfeehikeatrocity :2, '0.104*"privateschoolfeehikeatroc" + 0.024*"fee" + 0.020*"school" + 0.020*"educ"'
+#makeinindia :0, '0.103*"makeinindia" + 0.061*"boost" + 0.058*"plan" + 0.057*"get" + 0.057*"invest" + 0.056*"kia" + 0.055*"motor" + 0.051*"govt" + 0.050*"thank" + 0.050*"10k"'
